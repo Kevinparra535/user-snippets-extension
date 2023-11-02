@@ -4,11 +4,6 @@ This project includes snippets to facilitate the development of components in Re
 
 ## How to use the snippets
 
-- [react-snippets.code-snippets](./path/to/react-snippets.code-snippets): Snippets for React components in JavaScript.
-- [react-ts-snippets.code-snippets](./path/to/react-ts-snippets.code-snippets): Snippets for React components in TypeScript.
-- [react-native-snippets.code-snippets](./path/to/react-native-snippets.code-snippets): Snippets for React Native components in JavaScript.
-- [react-native-ts-snippets.code-snippets](./path/to/react-native-ts-snippets.code-snippets): Snippets for React Native components in TypeScript.
-
 To use the snippets, follow these steps:
 
 1. **Copy the content of the snippet file you want to use.**
