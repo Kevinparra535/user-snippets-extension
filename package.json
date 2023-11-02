@@ -1,6 +1,6 @@
 {
-  "name": "code-snippet",
-  "displayName": "code-snippet",
+  "name": "code-snippets-for-react-design-systems",
+  "displayName": "Code Snippets For React Design Systems",
   "description": "This project includes snippets to facilitate the development of components in React and React Native. The snippets are organized in separate files for React and React Native, and for JavaScript and TypeScript.",
   "version": "0.0.1",
   "engines": {
