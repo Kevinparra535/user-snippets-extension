@@ -1,65 +1,39 @@
-# code-snippet README
+# User Snippets for [React design system](https://github.com/Kevinparra535/cra-template-design-sytem-and-gitflow/wiki)
 
-This is the README for your extension "code-snippet". After writing up a brief description, we recommend including the following sections.
+This project includes snippets to facilitate the development of components in React and React Native. The snippets are organized in separate files for React and React Native, and for JavaScript and TypeScript.
 
-## Features
+## How to use the snippets
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- [react-snippets.code-snippets](./path/to/react-snippets.code-snippets): Snippets for React components in JavaScript.
+- [react-ts-snippets.code-snippets](./path/to/react-ts-snippets.code-snippets): Snippets for React components in TypeScript.
+- [react-native-snippets.code-snippets](./path/to/react-native-snippets.code-snippets): Snippets for React Native components in JavaScript.
+- [react-native-ts-snippets.code-snippets](./path/to/react-native-ts-snippets.code-snippets): Snippets for React Native components in TypeScript.
 
-For example if there is an image subfolder under your extension project workspace:
+To use the snippets, follow these steps:
 
-\!\[feature X\]\(images/feature-x.png\)
+1. **Copy the content of the snippet file you want to use.**
+2. **Open Visual Studio Code and go to "File" -> "Preferences" -> "User Snippets".**
+3. **Select the language for which you want to add the snippets.**
+4. **Paste the copied content into the file that opens.**
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## How to use the design system
 
-## Requirements
+This project is designed to be used with our design system. You can find more information and how to use it in the following link:
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+[Design System](https://github.com/Kevinparra535/cra-template-design-sytem-and-gitflow/wiki)
 
-## Extension Settings
+This design system was created as a template for React projects. You can use it as a base for your project by following these steps:
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+### **Create a new React project using our template:**
 
-For example:
+```js
+// Create react app
+npx create-react-app my-app --template cra-template-design-system
 
-This extension contributes the following settings:
+// Vite
+npx degit Kevinparra535/vite-template-design-sytem-and-gitflow [project-name]
+```
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+## License
 
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
