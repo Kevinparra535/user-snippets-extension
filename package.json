@@ -2,7 +2,7 @@
   "name": "code-snippets-for-react-design-systems",
   "displayName": "Code Snippets For React Design Systems",
   "description": "This project includes snippets to facilitate the development of components in React and React Native. The snippets are organized in separate files for React and React Native, and for JavaScript and TypeScript.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -45,7 +45,7 @@
   "homepage": "https://github.com/Kevinparra535/user-snippets-extension#readme",
   "icon": "icons/snippets-icon.png",
   "galleryBanner": {
-    "color": "#DB4F3B",
+    "color": "#181818",
     "theme": "dark"
   },
   "author": "Kevin Parra Lopez <kevinparra535@gmail.com> (https://www.kevinparralopez.com)",
