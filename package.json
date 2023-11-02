@@ -1,7 +1,7 @@
 {
   "name": "code-snippet",
   "displayName": "code-snippet",
-  "description": "This is the README for your extension \"code-snippet\". After writing up a brief description, we recommend including the following sections.",
+  "description": "This project includes snippets to facilitate the development of components in React and React Native. The snippets are organized in separate files for React and React Native, and for JavaScript and TypeScript.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -35,5 +35,13 @@
     "user-snippets"
   ],
   "author": "Kevin Parra Lopez <kevinparra535@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinparra535/user-snippets-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kevinparra535/user-snippets-extension/issues"
+  },
+  "homepage": "https://github.com/Kevinparra535/user-snippets-extension#readme"
 }
