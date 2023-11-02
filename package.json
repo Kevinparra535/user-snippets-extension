@@ -18,14 +18,6 @@
       {
         "language": "typescriptreact",
         "path": "./snippets/react-ts-snippets.code-snippets"
-      },
-      {
-        "language": "javascriptreactnative",
-        "path": "./snippets/react-native-snippets.code-snippets"
-      },
-      {
-        "language": "typescriptreactnative",
-        "path": "./snippets/react-native-ts-snippets.code-snippets"
       }
     ]
   },
