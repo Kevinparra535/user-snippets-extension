@@ -1,7 +1,7 @@
 {
   "name": "code-snippet",
   "displayName": "code-snippet",
-  "description": "",
+  "description": "This is the README for your extension \"code-snippet\". After writing up a brief description, we recommend including the following sections.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -12,9 +12,39 @@
   "contributes": {
     "snippets": [
       {
-        "language": "'javascript', 'typescript'",
-        "path": "./snippets/snippets.code-snippets"
+        "language": "javascriptreact",
+        "path": "./snippets/react-snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/react-ts-snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreactnative",
+        "path": "./snippets/react-native-snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreactnative",
+        "path": "./snippets/react-native-ts-snippets.code-snippets"
       }
     ]
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shorcuts",
+    "react",
+    "typescript",
+    "javascript",
+    "typescriptreact",
+    "typescriptreactnative",
+    "javascriptreact",
+    "javascriptreactnative",
+    "react-native",
+    "user-snippets"
+  ],
+  "author": "Kevin Parra Lopez <kevinparra535@gmail.com>",
+  "license": "MIT"
 }
