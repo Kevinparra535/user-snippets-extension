@@ -34,7 +34,6 @@
     "react-native",
     "user-snippets"
   ],
-  "author": "Kevin Parra Lopez <kevinparra535@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -43,5 +42,13 @@
   "bugs": {
     "url": "https://github.com/Kevinparra535/user-snippets-extension/issues"
   },
-  "homepage": "https://github.com/Kevinparra535/user-snippets-extension#readme"
+  "homepage": "https://github.com/Kevinparra535/user-snippets-extension#readme",
+  "icon": "icons/snippets-icon.png",
+  "galleryBanner": {
+    "color": "#DB4F3B",
+    "theme": "dark"
+  },
+  "author": "Kevin Parra Lopez <kevinparra535@gmail.com> (https://www.kevinparralopez.com)",
+  "publisher": "KevinParraLpez",
+  "pricing": "Free"
 }
